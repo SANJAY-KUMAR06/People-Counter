@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(90deg, #00bd56,#f9fd50);
+}
+.header{
+    text-align: center;
+    font-size: 5rem;
+    padding-top: 35px;
+}
+#count{
+    text-align: center;
+    font-size: 5.5rem;
+}
+button{
+    border-radius: 10%;
+    border: 10px solid ;
+    margin-left: 37%;
+    font-size: 4rem;
+    background-color: silver;
+    color: brown;
+  
+}
+#save{
+    margin-top: 10px;
+    padding: 0 20px;
+    margin-left: 42%;
+}
+#showing-lastEntires{
+     font-size: 3rem;
+     margin-left: 39%;
+     margin-top: 15px;
+}
